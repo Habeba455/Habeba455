@@ -42,9 +42,8 @@
 
 ### Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.upwork.com/"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/habebafetouh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~0158763b5d7af68350"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.freelancer.com/u/habebaftooh"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=flat-square&logo=freelancer&logoColor=white" /></a>
 </p>
 
-<!-- Replace the LinkedIn, Upwork and email placeholders with your real details before publishing. -->
