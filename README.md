@@ -1,6 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:111827,100:1e293b&fontColor=38bdf8&height=180&section=header&text=Habeba%20Fetouh&fontSize=46&animation=fadeIn&desc=AI%20%2F%20ML%20%26%20Computer%20Vision%20Engineer&descAlignY=65&descSize=18)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Deep+Learning+%7C+Computer+Vision;Document+AI+%26+OCR;Real-time+detection+%26+recognition;GenAI+%26+full-stack+apps" /></a>
 
