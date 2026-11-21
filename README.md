@@ -1,6 +1,10 @@
 ![Habeba Fetouh banner](./assets/banner.svg)
 
-**Top Rated freelancer on Upwork** · Based in Egypt
+<p align="center">
+  <img src="https://img.shields.io/badge/Upwork-Top_Rated-6FDA44?style=flat-square&logo=upwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based_in-Egypt-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_to-Freelance_%26_Collaboration-38bdf8?style=flat-square" />
+</p>
 
 ---
 
@@ -10,13 +14,16 @@ I design and build deep learning systems for detection, classification, and reco
 
 ## Expertise
 
-| Area | Tools |
-|---|---|
-| Computer Vision | OpenCV, PyTorch, TensorFlow, Keras |
-| Document AI & OCR | Python, deep learning pipelines |
-| Data & Experimentation | NumPy, Pandas, Jupyter |
-| Web & Applications | TypeScript, React, Next.js |
-| Engineering | Git, GitHub |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,jupyter,pandas,numpy,typescript,react,nextjs,git,github&theme=dark&perline=12" />
+</p>
+
+## Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Habeba455&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habeba455&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## Selected Work
 
@@ -31,4 +38,8 @@ I design and build deep learning systems for detection, classification, and reco
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/habebafetouh) · [Upwork](https://www.upwork.com/freelancers/~0158763b5d7af68350) · [Freelancer](https://www.freelancer.com/u/habebaftooh)
+<p align="center">
+  <a href="https://www.linkedin.com/in/habebafetouh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~0158763b5d7af68350"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.freelancer.com/u/habebaftooh"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=flat-square&logo=freelancer&logoColor=white" /></a>
+</p>
